@@ -39,13 +39,11 @@
                     <br>
                     <a href="createuser.php"><button style="background-color : #2785C4;">Create New User</button></a>
                   </div>
-                  <br>
                   <div class="col-md act">
                     <img src="img/transfer.webp" class="img-fluid">
                     <br>
                     <a href="transfermoney.php"><button style="background-color : #2785C4;">Make a Transaction</button></a>
                   </div>
-                  <br>
                   <div class="col-md act">
                     <img src="img/transaction history.png" class="img-fluid">
                     <br>
